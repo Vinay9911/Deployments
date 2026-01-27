@@ -1,34 +1,35 @@
-# 🚀**App Deployments**🚀
+# 🚀 App and Website Deployments
 
-Welcome to the repository containing some cool AI and ML based apps 🎉  
-You can check out the live apps below or explore their individual repositories for more details.👇
-
-## 📜 **Available Deployments**
-
-### 🗣️ Groq-Whisper-AI-Transcription-App
-🔗 [GitHub Repository](https://github.com/Vinay9911/Groq-Whisper-Fast-Transcription-App)  
-🌐 **Use the App**: [Groq-Whisper Fast Transcription](https://groq-whisper-ai.streamlit.app/)  
-A fast transcription tool powered by Groq and Whisper AI to transcribe audios from the uploaded file as well as Youtube links!
+Welcome! This repository showcases a collection of **AI and Machine Learning–powered applications** and **Web-Application**.
+You can explore the repositories or try the live deployed versions below.
 
 ---
 
-### 📊 Whatsapp_Chat_Analyzer
-🔗 [GitHub Repository](https://github.com/Vinay9911/Whatsapp_Chat-Analyzer-Streamlit-)  
-🌐 **Use the App**: [Whatsapp Chat Analyzer](https://whatsapp-chat-insight.streamlit.app/)  
-Gain insights and analyze your WhatsApp chats with this cool analyzer!
+## 📦 Applications Overview
+
+| # | Project Name                          | Description                                                                     | Tech Highlights                      | GitHub Repository                                                        | Live Demo                                               |
+| - | ------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------- |
+| 1 | 🎮 **WePlay Esports Platform**        | Tournament management system for gamers & organizers with real-time features    | Full Stack Web App, Realtime Systems | [Repo](https://github.com/Vinay9911/WePlay-Project)                      | [Live Platform](http://weplayy.vercel.app/)             |
+| 2 | 🍄 **Supr Mushrooms E-Commerce**      | Premium organic mushroom delivery platform for B2C & B2B customers              | Next.js (App Router), Full Stack     | [Repo](https://github.com/Vinay9911/SUPR_MUSHROOM_APP)                   | [Live Site](https://supr-mushroom.vercel.app/)          |
+| 3 | 🤖📧 **Gmail AI Agent**               | AI-powered email automation that reads emails and drafts or sends smart replies | Groq API, Email Automation, AI Agent | [Repo](https://github.com/Vinay9911/Gmail-AI-Agent)                      | —                                                       |
+| 4 | 🗣️ **Groq Whisper AI Transcription** | Fast audio transcription from files & YouTube links using Whisper + Groq        | Whisper AI, Groq API, Streamlit      | [Repo](https://github.com/Vinay9911/Groq-Whisper-Fast-Transcription-App) | [Try App](https://groq-whisper-ai.streamlit.app/)       |
+| 5 | 📊 **WhatsApp Chat Analyzer**         | Generates insights, statistics & visualizations from WhatsApp chats             | Python, Data Analysis, Streamlit     | [Repo](https://github.com/Vinay9911/Whatsapp_Chat-Analyzer-Streamlit-)   | [Try App](https://whatsapp-chat-insight.streamlit.app/) |
+| 6 | 💬 **Groq LLM Chat App**              | Conversational AI chat interface to interact with multiple LLM models           | Groq LLM API, Streamlit              | [Repo](https://github.com/Vinay9911/Groq-Chat-Streamlit-App)             | [Try App](https://groq-llms-chat1.streamlit.app/)       |
 
 ---
 
-### 💬 Groq Chat Streamlit Application
-🔗 [GitHub Repository](https://github.com/Vinay9911/Groq-Chat-Streamlit-App)  
-🌐 **Use the App**: [Groq LLMs Chat](https://groq-llms-chat1.streamlit.app/)  
-A conversational AI app built with Groq and Streamlit for dynamic chatting experiences with different LLMs model!
+## 🌐 Portfolio
+
+| Website               | Link                                                                       |
+| --------------------- | -------------------------------------------------------------------------- |
+| 💼 Personal Portfolio | [https://vinay-aggarwal.netlify.app/](https://vinay-aggarwal.netlify.app/) |
 
 ---
 
-Feel free to explore, try them out, and contribute if you have any suggestions or improvements! 🛠️
+## 🤝 Contributions
 
+Contributions, ideas, and improvements are welcome!
+Feel free to open an **issue** or submit a **pull request**.
 
-## 🌐 **My Portfolio Website**
-Catch a glimpse of my journey through the tech landscape  
-🔗 [vinay-aggarwal.netlify.app](https://vinay-aggarwal.netlify.app/)
+---
+
